@@ -21,6 +21,9 @@ In this guide, we will show you how to create a Spotify tag with Tinkercad. To d
 2. Bring the file you just downloaded (jpeg/png/svg) to your vector graphics program ([Adobe Illustrator : PAID](https://www.adobe.com/it/products/illustrator.html) or [inkscape: FREE](https://inkscape.org/release)) and transform it into vector, as in the example and eliminate the spotify logo.
 3. Save the file in .svg format and import it into the project you cloned before (Part 1:1).
 
+![IMG-1](https://github.com/denilson-polonio/keychain-spotify-code-readme/blob/main/img/1.jpg)
+![IMG-2](https://github.com/denilson-polonio/keychain-spotify-code-readme/blob/main/img/2.jpg)
+
 **Part 3: Importing the Spotify Code**
 
 1. On Tinkercad set your spotify code as empty, resize it, adapt it, center it above the black plate and join the 2 parts as in the example.
