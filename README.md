@@ -1,9 +1,11 @@
 ## Keychain / Spotify Code
 
-**Required:**
-
-1. A [Tinkercad](https://www.tinkercad.com/) Account.
-2. Know the basics of a vector graphics program such as [Adobe Illustrator: PAID](https://www.adobe.com/it/products/illustrator.html) or [inkscape: FREE](https://inkscape. org/release).
+**Introduction**
+In this guide, we will show you how to create a Spotify tag with Tinkercad. To do this, you will need:
+- Required:
+* A [Tinkercad](https://www.tinkercad.com/) Account.
+* Know the basics of a vector graphics program such as [Adobe Illustrator: PAID](https://www.adobe.com/it/products/illustrator.html) or [inkscape: FREE](https://inkscape. org/release).
+* A link to a song, album, playlist, or artist on Spotify
 
 
 **Part 1:**
