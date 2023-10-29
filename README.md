@@ -28,7 +28,7 @@ In this guide, we will show you how to create a Spotify tag with Tinkercad. To d
 
 1. On Tinkercad set your spotify code as empty, resize it, adapt it, center it above the black plate and join the 2 parts as in the example.
 2. Continue to [Part 4] if you also want to do the back of the tag, otherwise eliminate the white tag and continue to [Part 5].
-![IMG-1](https://github.com/denilson-polonio/keychain-spotify-code-readme/blob/main/img/3.jpg)
+![IMG-1](https://github.com/denilson-polonio/keychain-spotify-code-readme/blob/main/img/3p.jpg)
 
 **Part 4 (Optional): Creating an Image for the Back (Optional)**
 
