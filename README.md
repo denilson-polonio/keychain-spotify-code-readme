@@ -1,16 +1,22 @@
 ## Keychain / Spotify Code
 
+**Required:**
+
+1. A [Tinkercad](https://www.tinkercad.com/) Account.
+2. Know the basics of a vector graphics program such as [Adobe Illustrator: PAID](https://www.adobe.com/it/products/illustrator.html) or [inkscape: FREE](https://inkscape. org/release).
+
+
 **Part 1:**
 
 1. Open [Tinkercad](https://www.tinkercad.com/things/8rgx9zWSMcN?sharecode=LkHbbkmANtvtzAyHInHhswWZ7F1XJn0p6cH9i1ZOKFY), create an account and clone the project.
-2. Download a vector graphics program ([Adobe Illustrator : PAID](https://www.adobe.com/it/products/illustrator.html) or [inkscape: FREE](https://inkscape.org/release))
-3. Open [Spotify Codes](https://spotifycodes.com/) and [Spotify](https://open.spotify.com/)
+2. Download a vector graphics program ([Adobe Illustrator : PAID](https://www.adobe.com/it/products/illustrator.html) or [inkscape: FREE](https://inkscape.org/release)).
+3. Open [Spotify Codes](https://spotifycodes.com/) and [Spotify](https://open.spotify.com/).
 
 **Part 2:**
 
 1. Copy the link of a song/album/playlist or artist from [Spotify](https://open.spotify.com/) and paste it to [Spotify Codes](https://spotifycodes.com/) and at the end click the download button.
 2. Bring the file you just downloaded (jpeg/png/svg) to your vector graphics program ([Adobe Illustrator : PAID](https://www.adobe.com/it/products/illustrator.html) or [inkscape: FREE](https://inkscape.org/release)) and transform it into vector, as in the example and eliminate the spotify logo.
-3. Save the file in .svg format and import it into the project you cloned before (Part 1:1)
+3. Save the file in .svg format and import it into the project you cloned before (Part 1:1).
 
 **Part 3:**
 
