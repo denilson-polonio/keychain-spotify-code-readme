@@ -11,7 +11,7 @@ In this guide, we will show you how to create a Spotify tag with Tinkercad. To d
 
 **Part 1: Preparation**
 
-1. Open [Tinkercad](https://www.tinkercad.com/things/8rgx9zWSMcN?sharecode=LkHbbkmANtvtzAyHInHhswWZ7F1XJn0p6cH9i1ZOKFY), create an account and clone the project.
+1. Open [this Tinkercad link](https://www.tinkercad.com/things/8rgx9zWSMcN?sharecode=LkHbbkmANtvtzAyHInHhswWZ7F1XJn0p6cH9i1ZOKFY) and clone the project.
 2. Download a vector graphics program ([Adobe Illustrator : PAID](https://www.adobe.com/it/products/illustrator.html) or [inkscape: FREE](https://inkscape.org/release)).
 3. Open [Spotify Codes](https://spotifycodes.com) and [Spotify](https://open.spotify.com).
 
