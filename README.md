@@ -4,7 +4,7 @@
 
 In this guide, we will show you how to create a Spotify tag with Tinkercad. To do this, you will need:
 
-* A [Tinkercad](https://www.tinkercad.com "target=_blank") Account.
+* A [Tinkercad](https://www.tinkercad.com) Account.
 * Know the basics of a vector graphics program such as [Adobe Illustrator: PAID](https://www.adobe.com/it/products/illustrator.html) or [inkscape: FREE](https://inkscape.org/release).
 * A link to a song, album, playlist, or artist on Spotify
 
@@ -13,11 +13,11 @@ In this guide, we will show you how to create a Spotify tag with Tinkercad. To d
 
 1. Open [Tinkercad](https://www.tinkercad.com/things/8rgx9zWSMcN?sharecode=LkHbbkmANtvtzAyHInHhswWZ7F1XJn0p6cH9i1ZOKFY), create an account and clone the project.
 2. Download a vector graphics program ([Adobe Illustrator : PAID](https://www.adobe.com/it/products/illustrator.html) or [inkscape: FREE](https://inkscape.org/release)).
-3. Open [Spotify Codes](https://spotifycodes.com/) and [Spotify](https://open.spotify.com/).
+3. Open [Spotify Codes](https://spotifycodes.com) and [Spotify](https://open.spotify.com).
 
 **Part 2: Creating the Spotify Code**
 
-1. Copy the link of a song/album/playlist or artist from [Spotify](https://open.spotify.com/) and paste it to [Spotify Codes](https://spotifycodes.com/) and at the end click the download button.
+1. Copy the link of a song/album/playlist or artist from [Spotify](https://open.spotify.com) and paste it to [Spotify Codes](https://spotifycodes.com) and at the end click the download button.
 2. Bring the file you just downloaded (jpeg/png/svg) to your vector graphics program ([Adobe Illustrator : PAID](https://www.adobe.com/it/products/illustrator.html) or [inkscape: FREE](https://inkscape.org/release)) and transform it into vector, as in the example and eliminate the spotify logo.
 3. Save the file in .svg format and import it into the project you cloned before (Part 1:1).
 
