@@ -4,7 +4,7 @@
 
 In this guide, we will show you how to create a Spotify tag with Tinkercad. To do this, you will need:
 
-* A [Tinkercad](https://www.tinkercad.com) Account.
+* A [Tinkercad](https://www.tinkercad.com/) **target="_blank"** Account.
 * Know the basics of a vector graphics program such as [Adobe Illustrator: PAID](https://www.adobe.com/it/products/illustrator.html) or [inkscape: FREE](https://inkscape.org/release).
 * A link to a song, album, playlist, or artist on Spotify
 
